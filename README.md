@@ -20,7 +20,7 @@ It integrates:
 
 ---
 
-# 🏗️ COMPLETE PROJECT STRUCTURE (INCLUDING YOUR EXISTING SETUP)
+# 🏗️ COMPLETE PROJECT STRUCTURE 
 
 ```bash
 driver-drowsiness-system/
